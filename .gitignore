@@ -1,5 +1,6 @@
 #Adding Config.py file
 config.py
+config.js
 #Adding Additional files
 API_practice_ipynb
 random_numbers.ipynb
